@@ -1,0 +1,18 @@
+.formulario-config {
+    display: flex;
+    justify-content: space-between;
+}
+
+div .form-group {
+    margin: 0 5px;
+    width: 150px;
+}
+
+.btn-primary-glow {
+    background-color: #18F2B2;
+    box-shadow: 0 0 10px #18F2B2;
+}
+
+.btn-primary-glow:hover {
+    background-color: #0dd99c;
+}
